@@ -1,2 +1,0 @@
-# journeysky-wp
-my sky
